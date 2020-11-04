@@ -1,2 +1,6 @@
 First line! (MASTER)
 Second line! (dev)
+
+#Feature list
+* 1
+* 2
